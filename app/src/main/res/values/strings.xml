@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">P09-NDPSongs(Enhanced)</string>
+
+    <!-- Text View -->
+    <string name="viewTitle">Song Title</string>
+    <string name="viewSinger">Singers</string>
+    <string name="viewYear">Year</string>
+    <string name="viewStars">Stars</string>
+    <string name="viewID">Song ID</string>
+
+    <!-- Hints -->
+    <string name="hintTitle">Enter song title here</string>
+    <string name="hintSinger">Enter singers\' name here</string>
+    <string name="hintYear">Enter year of release here</string>
+
+    <!-- Buttons -->
+    <string name="btnInsert">insert</string>
+    <string name="btnShowList">show list</string>
+    <string name="btnUpdate">update</string>
+    <string name="btnDelete">delete</string>
+    <string name="btnCancel">cancel</string>
+    <string name="btn5stars">show all songs with 5 stars</string>
+    <string name="btnShowAllAgain">show all songs from 1 - 5 stars</string>
+
+</resources>
